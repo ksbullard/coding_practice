@@ -1,6 +1,6 @@
 import numpy as np
-from representation.gridworld_mdp import GridworldMDP
-from representation.state import State
+from mdp.representation.gridworld_mdp import GridworldMDP
+from mdp.representation.state import State
 
 
 
